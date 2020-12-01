@@ -1,0 +1,41 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<LoginForm /> should render successfully 1`] = `
+<div>
+  <form
+    class="vertical-form"
+  >
+    <div
+      class="margin-TB"
+    >
+      <label>
+        Name
+      </label>
+      <input
+        placeholder="Enter your name"
+        type="text"
+        value=""
+      />
+    </div>
+    <div
+      class="margin-TB"
+    >
+      <label>
+        Password
+      </label>
+      <input
+        placeholder="Enter a password"
+        type="password"
+        value=""
+      />
+    </div>
+    <div>
+      <button
+        type="button"
+      >
+        Login
+      </button>
+    </div>
+  </form>
+</div>
+`;

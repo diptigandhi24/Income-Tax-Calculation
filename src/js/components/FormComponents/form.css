@@ -1,0 +1,22 @@
+.margin-TB {
+  margin: 20px;
+}
+
+.margin-TB label {
+  margin: 0px 10px;
+  width: 100px;
+}
+.vertical-form {
+  display: flex;
+  justify-content: center;
+
+  flex-direction: column;
+}
+.vertical-form div {
+  display: flex;
+  justify-content: center;
+}
+
+.vertical-form button {
+  width: 200px;
+}
